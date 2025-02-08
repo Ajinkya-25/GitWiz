@@ -1,2 +1,0 @@
-[console_scripts]
-gitwiz = GitWiz.cli:main

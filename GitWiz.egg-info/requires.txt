@@ -1,4 +1,0 @@
-gitpython
-colorama
-pyfiglet
-ollama
