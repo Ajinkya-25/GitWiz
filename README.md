@@ -40,7 +40,7 @@ pip install GitWiz
 ```
 ### Install from source
 ```bash
-git clone https://github.com/yourusername/GitEase.git
+git clone https://github.com/ajinkya-25/GitWiz.git
 cd GitWiz
 pip install .
 ```
